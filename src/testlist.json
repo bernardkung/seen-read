@@ -1,0 +1,14 @@
+[
+    {
+        "date":"9/23/2023", 
+        "media":[
+            {"name": "Jujutsu Kaisen", "name2": "2023", "type": "tv", "count": 1},
+            {"name": "Adventureland", "name2": "2009", "type": "film", "count": 1},
+            {"name": "Star Trek: Voyager", "name2": "", "type": "tv", "count": 2}
+        ]
+    },
+    {"date":"9/24/2023", "media":[
+        {"name": "U-571", "name2": "2000", "type": "film", "count": 1},
+        {"name": "Adventureland", "name2": "2009", "type": "film", "count": 1}
+    ]}
+]
